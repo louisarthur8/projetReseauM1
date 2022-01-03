@@ -1,0 +1,13 @@
+Bugs connus :
+
+Entrer un caractère autre qu'un chiffre lors de la première sélection du client crée une boucle infinie.
+
+
+
+
+
+Améliorations possibles :
+
+Possibilité d'ajouter d'autres questions.
+Il faudrait pour cela stocker ces questions dans un fichier côté serveur. Le client pourrait alors avoir l'option d'ajouter des questions.
+
